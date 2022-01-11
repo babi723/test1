@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Mail.Send",
+    "\\Mail.Send\\Mail.Send",
+    "\\Mail.Send\\Mail.Send\\Views",
+    "\\Mail.Send\\Mail.Send\\Views\\Home"
+  ],
+  "SelectedNode": "\\Mail.Send\\Mail.Send\\Views\\Home\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}

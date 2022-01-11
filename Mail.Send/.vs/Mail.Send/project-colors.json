@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "635f737e-eeab-4d3f-b6a8-ddadfe8157cb": {
+      "ProjectGuid": "635f737e-eeab-4d3f-b6a8-ddadfe8157cb",
+      "DisplayName": "Mail.Send",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
